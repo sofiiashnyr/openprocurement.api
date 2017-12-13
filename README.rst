@@ -54,4 +54,4 @@ For translation into *<lang>* (2 letter ISO language code), you have to follow t
  5. Build translated documentations::
 
      (cd docs/_build; make -e SPHINXOPTS="-D language='uk'" html)
-
+x
